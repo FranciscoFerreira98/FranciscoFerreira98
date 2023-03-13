@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FranciscoFerreira98
-- 🌱 I’m currently learning Angular, node.js
+- 🌱 I’m currently learning React, Next.js
 - 📫 How to reach me franciscoferreir98@gmail.com
 
 <!---
