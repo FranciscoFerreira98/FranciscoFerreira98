@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable, efficient,
 - **Frontend:** Angular, JavaScript, HTML5, CSS3
 - **Backend:** SAP MII, Node.js, Express.js
 - **Databases:** SQL, MongoDB, PostgreSQL
-- **Tools:** Git, Docker, Jenkins
+- **Tools:** Git
 
 <!---
 FranciscoFerreira98/FranciscoFerreira98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
