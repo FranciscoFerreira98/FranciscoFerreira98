@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @FranciscoFerreira98
-- 🌱 I’m currently learning React, Next.js
-- 📫 How to reach me franciscoferreir98@gmail.com
+
+## Full Stack Developer at AMI-SYS | SAP MII & Angular Specialist
+
+Welcome to my GitHub profile! I'm passionate about building scalable, efficient, and user-centric solutions.
+
+### 🛠 Tech Stack
+
+- **Frontend:** Angular, JavaScript, HTML5, CSS3
+- **Backend:** SAP MII, Node.js, Express.js
+- **Databases:** SQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, Jenkins
 
 <!---
 FranciscoFerreira98/FranciscoFerreira98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
